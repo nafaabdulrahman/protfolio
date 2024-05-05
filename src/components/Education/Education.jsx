@@ -5,10 +5,10 @@ function Education() {
     const collegeDetails = () => {
         return [
             {
-                collegeLogo: "/sahyadri.jpg",
-                collegeName: "Sahyadri College of Engineering and Management",
-                date: "Aug 2016 - Aug 2020",
-                collegeDegreeTitle: "Bachelor of Engineering (Mechanical)",
+                collegeLogo: "public/mite.png",
+                collegeName: "Mangalore Institute of Technology and Engineering",
+                date: "jun 2017 - jun 2021",
+                collegeDegreeTitle: "Bachelor of Engineering (Mechatronics)",
             }
         ];
     }

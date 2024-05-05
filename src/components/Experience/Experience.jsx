@@ -43,19 +43,7 @@ function Experience() {
             {
                 companyLogo: "/infosys.jpg",
                 companyName: "Infosys Limited",
-                date: "Nov 2023 - Feb 2024",
-                jobTitle: "Senior Systems Engineer",
-                description: `<ul>
-                    <li>Developed scalable backend systems using Java and Spring Boot, integrating Spring Data JPA for efficient database operations.</li>
-                    <li>Designed and implemented microservices architecture for enhanced system modularity, scalability, and maintainability.</li>
-                    <li>Built RESTful APIs with Spring Boot, ensuring data integrity and authentication through Spring Security, JWT, and OAuth protocols.</li>
-                    <li>Developed responsive React interfaces for seamless user experiences, with MySQL expertise for efficient database management. Proficient in Postman, GitHub, Docker, and AWS for streamlined development and deployment.</li>
-                </ul>`,
-            },
-            {
-                companyLogo: "/infosys.jpg",
-                companyName: "Infosys Limited",
-                date: "Mar 2022 - Nov 2023",
+                date: "Mar 2022 - present",
                 jobTitle: "Systems Engineer",
                 description: `<ul>
                     <li>Learnt Java and Spring Boot basics with senior developers' guidance for backend system development.</li>
@@ -70,22 +58,20 @@ function Experience() {
                 date: "Dec 2021 - Mar 2022",
                 jobTitle: "Systems Engineer Trainee",
                 description: `<ul>
-                    <li>Participated in comprehensive Java and Spring Boot training programs at Infosys, acquiring essential skills for backend development.</li>
-                    <li>Received hands-on training in developing scalable and efficient backend systems using Java, along with Spring Boot frameworks.</li>
-                    <li>Acquired practical experience in building RESTful APIs with Spring Boot, employing industry-standard practices for secure and efficient communication.</li>
+                    <li>Participated in Python,AWS,C# training programs at Infosys, acquiring essential skills for backend development.</li>
+                    <li>Received hands-on training in developing scalable and efficient backend systems using python and C#, along with .Net frameworks.</li>
+                    <li>Acquired practical experience in building  APIs with .net, employing industry-standard practices for secure and efficient communication.</li>
                 </ul>`,
             },
             {
-                companyLogo: "/glowtouch.jpg",
-                companyName: "Glowtouch Technologies Pvt. Ltd",
-                date: "Apr 2021 - Dec 2021",
-                jobTitle: "Junior Administrator L1",
+                companyLogo: "/F:\protfolio\protfolio\portfolio_website\public\mewatrading.png",
+                companyName: "Merwat Trading Pvt. Ltd",
+                date: "mar 2020 - mar 2021",
+                jobTitle: "Business Analyst",
                 description: `<ul>
                     <li>Provided frontline technical support via chat, resolving customer queries and troubleshooting issues promptly to ensure high customer satisfaction.</li>
-                    <li>Demonstrated expertise in DNS management, effectively configuring domain settings, resolving DNS-related issues, and ensuring seamless domain functionality.</li>
-                    <li>Addressed hosting issues promptly, diagnosing and resolving server-related issues such as downtime, performance degradation, and resource allocation discrepancies.</li>
-                    <li>Assisted customers in resolving HTTP status code errors, including 404 (Not Found) and 403 (Forbidden), by identifying and troubleshooting issues related to file paths, permissions, and access control configurations.</li>
-                </ul>`,
+                    <li>Collaborating closely with stakeholders, design solutions and develop business cases to justify proposed changes.</li>
+                    <li>A business analyst serves as a liaison between business stakeholders and technical teams, focusing on improving organizational efficiency and achieving strategic objectives.</ul>`,
             }
         ];
     };

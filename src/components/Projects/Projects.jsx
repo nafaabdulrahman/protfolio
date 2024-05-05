@@ -11,35 +11,24 @@ function Projects() {
     const projectDetails = () => {
         return [
             {
-                projectLogo: "/Wafa1.png",
-                projectName: "Wafa Enterprises",
-                technologyUsed: "React JSX, Spring Boot, Spring Data JPA, Hibernate, Spring Security, MySQL",
-                projectDescription: "Wafa Enterprises is a sophisticated payment application designed to facilitate lucky draw transactions. It offers both Admin and User login functionalities, allowing seamless access to transaction details and account management."
+                projectLogo: "portfolio_website/public/Twitter scraping design (1).png",
+                projectName: "Twitter Scrapping",
+                technologyUsed: "Python,Pandas,Streamlit,Snscrape,MySQL,Pymongo,PyMongo",
+                projectDescription: "This project aims to scrape Twitter data using the snscrape library, store it in MongoDB, and display the scraped data in a GUI built with Streamlit. The user can enter a keyword or hashtag to search, select a date range, and limit the number of tweets to scrape. The scraped data is displayed in the GUI and can be uploaded to the database, downloaded as a CSV or JSON file."
             },
             {
-                projectLogo: "/movieBooking1.png",
-                projectName: "Movie Booking",
-                technologyUsed: "React JSX, Spring Boot, Spring Data JPA, Hibernate, Spring Security, MySQL, RazorPay",
-                projectDescription: "Movie Booking - Payment Application facilitates movie ticket bookings and payments. It utilizes advanced technologies like React JSX, Spring Boot, Spring Data JPA, Hibernate, Spring Security, MySQL, and RazorPay for secure and efficient booking experiences."
+                projectLogo: "portfolio_website/public/phonepe (2).png",
+                projectName: "PhonePe Pulse Data Analysis ",
+                technologyUsed: "Python 3.11,Pandas,Streamlit,Plotly,Matplotlib,Geopandas,Requests,MySQL.",
+                projectDescription: "Data Analysis Combining Streamlit, Plotly, GeoPandas, and Matplotlib for PhonePe Pulse Data Analysis offers a powerful toolkit for visualizing and exploring financial data. Streamlit provides an interactive web interface for data exploration, while Plotly enables the creation of dynamic and interactive plots. GeoPandas adds geospatial capabilities, allowing users to analyze location-based data such as spending patterns across regions. Matplotlib complements the toolkit with versatile plotting functions for creating custom visualizations. By leveraging these tools together, users can conduct comprehensive data analysis, gain insights into their spending habits, and make informed financial decisions through a seamless and interactive experience."
             },
             {
-                projectLogo: "/ResumeBuilder1.png",
-                projectName: "Resume Builder",
-                technologyUsed: "React JSX, Spring Boot, Spring Data JPA, Hibernate, MySQL",
-                projectDescription: "Resume Builder - Application assists users in creating professional resumes effortlessly. It employs React JSX, Spring Boot, Spring Data JPA, Hibernate, and MySQL for seamless user experiences. With its intuitive interface and customizable templates, users can tailor their resumes to suit various industries."
+                projectLogo: "portfolio_website/public/ekart.png",
+                projectName: "Ekart Application",
+                technologyUsed: "CSharp,Aws,asp.net frameworks,MySQL",
+                projectDescription: "TheKart is a strong online shopping platform made with C# and .NET. It lets users shop easily with features like logging in, browsing products, adding them to a cart, and securely checking out. It also has order tracking. The site works well on phones and computers, and it's reliable and secure for both users and admins."
             },
-            {
-                projectLogo: "/EmailScheduler.PNG",
-                projectName: "Email Scheduler",
-                technologyUsed: "Spring Boot, Spring Data JPA, Hibernate, MySQL, PDFTOJAVA",
-                projectDescription: "Email Scheduler Application automates sending emails with resumes to HR. It leverages Spring Boot, Spring Data JPA, Hibernate, MySQL, and PDFTOJAVA for efficient scheduling and delivery. The application offers a user-friendly dashboard to schedule emails, track deliveries, and effortlessly manage resume templates, ensuring a seamless user experience and productivity enhancement."
-            },
-            {
-                projectLogo: "/Fake.png ",
-                projectName: "Prank Payment",
-                technologyUsed: "React Native, Spring Boot, Spring Data JPA, Hibernate, MySQL",
-                projectDescription: "Prank Payment Application is a unique project developed with React Native for the frontend and Spring Boot for the backend. It simulates a payment application interface but with a humorous twist. Users can prank their friends by sending fake payment notifications and enjoy the reactions. The application includes interactive features and realistic UI elements to enhance the prank experience."
-            },
+            
         ];
     };
 

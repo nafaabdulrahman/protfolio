@@ -4,7 +4,7 @@ import './About.css';
 
 function About() {
     const values = {
-        name: "Abdul Rahman Hussain"
+        name: "Nafa Abdul Rahman"
     };
 
     return (
@@ -16,8 +16,8 @@ function About() {
                         <h1 className='name'>{values.name}</h1>
                         <h2 className=''>I am a <ReactTyped className='role'
                             strings={[
-                                "Full Stack Java Developer.",
-                                "Java Backend Developer."
+                                "Python Developer.",
+                                "C# Backend Developer."
                             ]}
                             typeSpeed={70}
                             backSpeed={80}
